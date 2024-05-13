@@ -4,7 +4,8 @@ Hola mi nombre es Alan Maldonado ![](https://user-images.githubusercontent.com/1
 Front-end Developer
 -------------------
 
-estoy aprendiendo hace 3 años, en parte independiente y parte en la Universidad, actualmente estudio la carrera de Ciencias de la computación.
+
+ estuve aprendiendo durante tres años, combinando estudios independientes y dedicacion y con formación universitaria. Actualmente, estoy cursando primer año de la carrera de Ciencias de la Computación.
 
 * 🌍  Soy de Cordoba, Argetina
 
