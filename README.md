@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Maldonado
+Hola mi nombre es Alan Maldonado ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
 Front-end Developer
@@ -6,7 +6,7 @@ Front-end Developer
 
 estoy aprendiendo hace 3 años, en parte independiente y parte en la Universidad, actualmente estudio la carrera de Ciencias de la computación.
 
-* 🌍  I'm based in Cordoba
+* 🌍  Soy de Cordoba,Argetina
 
 ### Skills
 
