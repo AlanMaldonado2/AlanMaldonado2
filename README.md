@@ -5,7 +5,7 @@ Front-end Developer
 -------------------
 
 
-* 🌍  Soy de Cordoba, Argetina
+* 🌍  Soy de Cordoba, Argentina
 
 ### Skills
 
