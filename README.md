@@ -6,7 +6,7 @@ Front-end Developer
 
 estoy aprendiendo hace 3 años, en parte independiente y parte en la Universidad, actualmente estudio la carrera de Ciencias de la computación.
 
-* 🌍  Soy de Cordoba,Argetina
+* 🌍  Soy de Cordoba, Argetina
 
 ### Skills
 
